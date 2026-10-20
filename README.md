@@ -43,7 +43,7 @@ To explore the relationship between trader performance and market sentiment, unc
 
 ### 3️⃣ Trade Direction & Market Sentiment
 
-- 📊 A Chi-squared test (p < 0.001) confirms a significant link between market sentiment and trade direction (BUY/SELL).
+- 📊 A Chi-Squared test (p < 0.001) confirms a significant link between market sentiment and trade direction (BUY/SELL).
 - 🔻 SELL trades outperform BUY during volatile emotional markets like Fear and Greed.
 - 🔼 BUY trades are more successful during Neutral sentiment, where conditions are more stable.
 
